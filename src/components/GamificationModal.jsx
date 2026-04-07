@@ -18,7 +18,6 @@ const GamificationModal = ({ isOpen, onClose }) => {
   const [showSuccess, setShowSuccess] = useState(false);
 
   const eventOptions = [
-    { id: 'orders', label: 'Brings more than #Y orders', hasX: true, placeholder: 'eg: 10' },
     { id: 'sales', label: 'Cross $X in sales', hasX: true, placeholder: 'eg: 100' },
     { id: 'posts', label: 'Posts X times every Y period', hasComplex: true },
     { id: 'onboard', label: 'Is Onboarded', hasX: false },
