@@ -8,7 +8,7 @@ function App() {
     <div className="min-h-screen bg-[#FDFCFD] flex flex-col items-center justify-center p-4">
       <div className="text-center space-y-8 animate-in fade-in duration-700">
         <h1 className="text-5xl font-black text-[#1E293B] tracking-tight">
-          Clannex <span className="text-[#E879F9]">Gamification</span>
+          ClanX <span className="text-[#E879F9]">Gamification</span>
         </h1>
         <p className="text-slate-500 max-w-lg mx-auto text-lg">
           Enable Gamification to start crafting your custom reward system.
